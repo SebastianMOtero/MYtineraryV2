@@ -1,0 +1,19 @@
+#cityFilter {
+    margin:5%;
+    width: 90%;
+}
+
+/* #cityFilter form-control {
+    margin:10%;
+    width: 90%;
+} */
+
+#citiesList {
+    margin-bottom: 65px;
+    
+}
+
+#ContainerSpinner {
+    text-align: center;
+    color: #394E56
+}

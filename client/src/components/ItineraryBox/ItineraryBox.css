@@ -1,0 +1,27 @@
+.ItineraryBoxList {
+    /* background-color: red; */
+    /* background-image: url('../../assets/images/CarrouselImagenEjemplo.jpg') ; */
+    /* background-size: cover; */
+    height: auto;
+    width: 92%;
+    margin: 4% 4%;
+    /* border-style: solid; */
+    padding-bottom: 0;
+    background-color: antiquewhite;
+}
+
+#ButtonViewAll{
+    width: 100%;
+}
+
+.ArrowEnter {
+    height: 2rem;
+}
+
+#ItineraryprofilePic, #ItineraryprofileName, #ItineraryTitle, #ItineraryLikes, #ItineraryDuration, #ItineraryPrice {
+    /* border-style: solid */
+}
+
+#favIcon {
+    height: 20px;
+}

@@ -1,0 +1,29 @@
+.CarrouselBloqueRaiz{
+    margin:5px;
+}
+
+.CarrouselBloqueRaiz h5 {
+    margin-left: 5px;
+}
+.center {
+    /* border-style: solid; */
+}
+
+.bloqueCarrousel{
+    /* border-style: solid; */
+    text-align: center;
+    height: 9rem;
+    padding: 5px;
+
+    
+}
+
+.bloqueImg {
+    /* background-color: red; */
+    background-image: url('../../assets/images/CarrouselImagenEjemplo.jpg') ;
+    background-size: cover;
+    height: 8rem;
+    margin: 0;
+    
+    
+}

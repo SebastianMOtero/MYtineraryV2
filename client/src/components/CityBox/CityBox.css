@@ -1,0 +1,35 @@
+.CityBoxList {
+    /* background-color: red; */
+    /* src={ this.props.isLogged ? 
+        (process.env.PUBLIC_URL + this.props.user.profilePic) : userIcon} alt="User"  */
+    /* background-image: url('../../assets/images/CarrouselImagenEjemplo.jpg') ; */
+    /* background-image: url('http://localhost:5000/public/images/cities/vienna-austria.jpg') ; */
+    background-size: cover;
+    height: 6rem;
+    width: 92%;
+    margin: 4% 4%;
+    /* border-style: solid; */
+}
+
+.list-group-item h5 {
+    color:white;
+    font-size: 2.5rem;
+    text-align: center;
+    /* border: 1px solid; */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
+}
+
+
+.CityBox {
+
+}
+
+.PRUEBA {
+    position:relative;
+    height: 150px;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-position: center;
+    background-size: cover;
+}

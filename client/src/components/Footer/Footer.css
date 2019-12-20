@@ -1,0 +1,21 @@
+.HomeIcon {
+    width: 2rem;
+}
+
+.BackIcon {
+    width: 2rem;
+}
+
+#bloqueFooter {
+    text-align: center;
+}
+
+.footer {
+    borderTop: '1px solid #ddd';
+    padding: 0.5rem;
+    border-style: solid;
+    /* height: calc(100% - 60px); */
+    /* lineHeight: '60px', */
+    background-color: #394E56;
+    
+}

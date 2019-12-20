@@ -1,0 +1,24 @@
+.Main {
+    padding: 16px
+}
+
+#Mainlogo {
+    width: 100%;
+    height: 100%;
+}
+
+#ContainerButtonToCities{
+    /* border-style: solid; */
+    text-align: center;
+}
+
+#ButtonToCities {
+    width: 35%;
+}
+
+.Main p {
+    text-align: center;
+    font-size: 110%;
+    height: 4rem;
+    /* border-style: solid; */
+}

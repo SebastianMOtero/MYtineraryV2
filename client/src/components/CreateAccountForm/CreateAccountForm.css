@@ -1,0 +1,28 @@
+.formGroup {
+    width: 98%;
+    margin: 0% 1%;
+}
+
+
+.upload_file_container{
+        border-color: green;
+        border-width: 10px;
+        border-style: solid;
+        border-radius: 50%;
+        width:150px;
+        height: 150px;
+ }
+ 
+ .upload_file_container input{
+    background-color: white;
+    width: 80%;
+ }
+
+ .AccountForm {
+     margin-bottom: 60px ;  /* 50 de footer mas extra */
+ }
+
+ #buttonCreateAccount{
+    margin:5%;
+    width: 90%;
+ }

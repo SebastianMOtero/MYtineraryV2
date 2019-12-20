@@ -1,0 +1,8 @@
+.CarrouselActivities .slick-slide {
+    border-style: solid;
+    height: 5rem;
+}
+
+.slick-slide h3 {
+    text-align: center;
+}

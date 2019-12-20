@@ -1,0 +1,58 @@
+#asd {
+    width: 100px;
+}
+
+#formLogin {
+    margin:5%;
+    width: 90%;
+}
+
+.bottonLogin {
+    margin:5%;
+    width: 90%;
+}
+
+#buttonLogin {
+    width: 90%;
+    height: 3rem;
+}
+#inputRight {
+    text-align: right;
+}
+
+#buttonGoogle{
+    background-color: #DE5246;
+    width: 90%;
+    height: 3rem;
+}
+
+sgv {
+    
+}
+#g {
+    height: 20px;
+    vertical-align: sub;
+    margin-right: 15px;
+}
+
+#loginText {
+    width: 90%;
+}
+
+h5 { 
+    text-align: center;
+    padding: 10px
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+    /* padding: 0px */
+}
+
+p {
+    text-align: center;
+}
+/* .col {
+    margin: 0px;
+    padding: 0px
+} */
